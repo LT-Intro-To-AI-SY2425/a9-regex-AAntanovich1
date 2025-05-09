@@ -2,7 +2,6 @@
 import re, string, calendar
 from wikipedia import page
 from bs4 import BeautifulSoup
-
 from typing import List, Match
 from utilities import *
 
